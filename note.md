@@ -1,6 +1,7 @@
 # Terms
 Repository (Repo)
 Branch
+Conflict
 # Commands
 - git init
 - git status

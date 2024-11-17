@@ -2,6 +2,8 @@
 Repository (Repo)
 Branch
 Conflict
+local
+remote
 # Commands
 - git init
 - git status
@@ -9,9 +11,10 @@ Conflict
 - git reset 
 - git commit 
 - git log
-- git log --online
+- git log --oneline
 - git checkout {branch name}
 - git branch
 - git checkout -b {branch name}
 - git merge {branch name}
 - git branch -d {branch name}
+- git push

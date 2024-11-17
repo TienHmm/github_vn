@@ -18,3 +18,9 @@ remote
 - git merge {branch name}
 - git branch -d {branch name}
 - git push
+- git remote add {} link
+- git push -u {} {ten branch}
+- git clone
+- git fetch {} 
+- git checkout -b {branch name} {}/{branch name}
+- git pull
